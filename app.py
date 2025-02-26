@@ -14,4 +14,4 @@ def greet(name):
     # GREET FONCTION
     if name =="":
         return "Hello, World!"
-        return f"Hello,"+ [name]
+        return f"Hello,"+(name)
