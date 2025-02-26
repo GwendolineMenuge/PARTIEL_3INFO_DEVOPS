@@ -29,3 +29,9 @@ Ce dépôt contient un projet Python simple avec :
 7. Rendre le lien de votre répository contenant les github actions que vous aurez implémenté. 
 
 ***Attention à bien mettre votre repository en PUBLIC !***
+
+# Badge de tests
+
+[![Linter](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml/badge.svg)](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml)
+
+[![.github/workflows/test.yml](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml/badge.svg)](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml)
