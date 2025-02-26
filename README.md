@@ -32,6 +32,6 @@ Ce dépôt contient un projet Python simple avec :
 
 # Badge de tests
 
-[![Linter](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml/badge.svg)](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml)
+[![Linter](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml/badge.svg?branch=master)](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml)
 
-[![.github/workflows/test.yml](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml/badge.svg)](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml)
+[![Execution des tests](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/GwendolineMenuge/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml)
